@@ -1,0 +1,35 @@
+{
+    "name": "the-dark-time",
+    "displayName": "thedarktime",
+    "description": "it's a theme mix of dark and high contras",
+    "version": "0.2.0",
+    "publisher": "harshittiwari",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/harshitisback/thedarktimetheme_vscode.git"
+    },
+    "keywords": [
+        "theme",
+        "visual studio theme",
+        "thedarktime",
+        "the dark time theme",
+        "dark theme",
+        "best visual studio theme"
+    ],
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon/Logo.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "The Dark Time Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/The Dark Time Theme-color-theme.json"
+            }
+        ]
+    }
+}
