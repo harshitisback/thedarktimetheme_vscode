@@ -1,8 +1,8 @@
 {
     "name": "the-dark-time",
     "displayName": "thedarktime",
-    "description": "it's a theme mix of dark and high contras",
-    "version": "0.2.0",
+    "description": "it's a theme mix of dark and high contrast",
+    "version": "0.0.3",
     "publisher": "harshittiwari",
     "repository": {
         "type": "git",
