@@ -31,8 +31,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 |Harshit Tiwari|amankumartiwari1502<br>@gmail.com|
 
 ### _To visit our github profile_ 
-[Github](https://github.com/harshitisback "harshitisback")<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github-square.svg" width="25" height="25">
-
+[Github](https://github.com/harshitisback "harshitisback")
 
 
 
